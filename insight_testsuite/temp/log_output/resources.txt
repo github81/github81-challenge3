@@ -1,0 +1,3 @@
+"POST/loginHTTP/1.0"
+"GET/shuttle/countdown/HTTP/1.0"
+"GET/shuttle/countdown/liftoff.htmlHTTP/1.0"
